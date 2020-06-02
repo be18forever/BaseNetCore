@@ -1,0 +1,13 @@
+C:\Users\XiaoXu\source\repos\Base\common.Core\bin\Debug\netcoreapp3.1\common.Core.deps.json
+C:\Users\XiaoXu\source\repos\Base\common.Core\bin\Debug\netcoreapp3.1\common.Core.dll
+C:\Users\XiaoXu\source\repos\Base\common.Core\obj\Debug\netcoreapp3.1\common.Core.AssemblyInfoInputs.cache
+C:\Users\XiaoXu\source\repos\Base\common.Core\obj\Debug\netcoreapp3.1\common.Core.AssemblyInfo.cs
+C:\Users\XiaoXu\source\repos\Base\common.Core\obj\Debug\netcoreapp3.1\common.Core.csprojAssemblyReference.cache
+C:\Users\XiaoXu\source\repos\Base\common.Core\bin\Debug\netcoreapp3.1\common.Core.pdb
+C:\Users\XiaoXu\source\repos\Base\common.Core\bin\Debug\netcoreapp3.1\Base.Model.dll
+C:\Users\XiaoXu\source\repos\Base\common.Core\bin\Debug\netcoreapp3.1\common.Interface.dll
+C:\Users\XiaoXu\source\repos\Base\common.Core\bin\Debug\netcoreapp3.1\Base.Model.pdb
+C:\Users\XiaoXu\source\repos\Base\common.Core\bin\Debug\netcoreapp3.1\common.Interface.pdb
+C:\Users\XiaoXu\source\repos\Base\common.Core\obj\Debug\netcoreapp3.1\common.Core.csproj.CopyComplete
+C:\Users\XiaoXu\source\repos\Base\common.Core\obj\Debug\netcoreapp3.1\common.Core.dll
+C:\Users\XiaoXu\source\repos\Base\common.Core\obj\Debug\netcoreapp3.1\common.Core.pdb

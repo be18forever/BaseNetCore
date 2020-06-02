@@ -1,0 +1,8 @@
+C:\Users\XiaoXu\source\repos\Base\common.Interface\bin\Debug\netcoreapp3.1\common.Interface.deps.json
+C:\Users\XiaoXu\source\repos\Base\common.Interface\bin\Debug\netcoreapp3.1\common.Interface.dll
+C:\Users\XiaoXu\source\repos\Base\common.Interface\bin\Debug\netcoreapp3.1\common.Interface.pdb
+C:\Users\XiaoXu\source\repos\Base\common.Interface\obj\Debug\netcoreapp3.1\common.Interface.csprojAssemblyReference.cache
+C:\Users\XiaoXu\source\repos\Base\common.Interface\obj\Debug\netcoreapp3.1\common.Interface.AssemblyInfoInputs.cache
+C:\Users\XiaoXu\source\repos\Base\common.Interface\obj\Debug\netcoreapp3.1\common.Interface.AssemblyInfo.cs
+C:\Users\XiaoXu\source\repos\Base\common.Interface\obj\Debug\netcoreapp3.1\common.Interface.dll
+C:\Users\XiaoXu\source\repos\Base\common.Interface\obj\Debug\netcoreapp3.1\common.Interface.pdb

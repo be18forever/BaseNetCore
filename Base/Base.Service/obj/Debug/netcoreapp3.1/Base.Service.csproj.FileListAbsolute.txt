@@ -1,0 +1,13 @@
+C:\Users\XiaoXu\source\repos\Base\Base.Service\bin\Debug\netcoreapp3.1\Base.Service.deps.json
+C:\Users\XiaoXu\source\repos\Base\Base.Service\bin\Debug\netcoreapp3.1\Base.Service.dll
+C:\Users\XiaoXu\source\repos\Base\Base.Service\bin\Debug\netcoreapp3.1\Base.Service.pdb
+C:\Users\XiaoXu\source\repos\Base\Base.Service\bin\Debug\netcoreapp3.1\Base.IService.dll
+C:\Users\XiaoXu\source\repos\Base\Base.Service\bin\Debug\netcoreapp3.1\common.Interface.dll
+C:\Users\XiaoXu\source\repos\Base\Base.Service\bin\Debug\netcoreapp3.1\Base.IService.pdb
+C:\Users\XiaoXu\source\repos\Base\Base.Service\bin\Debug\netcoreapp3.1\common.Interface.pdb
+C:\Users\XiaoXu\source\repos\Base\Base.Service\obj\Debug\netcoreapp3.1\Base.Service.csprojAssemblyReference.cache
+C:\Users\XiaoXu\source\repos\Base\Base.Service\obj\Debug\netcoreapp3.1\Base.Service.AssemblyInfoInputs.cache
+C:\Users\XiaoXu\source\repos\Base\Base.Service\obj\Debug\netcoreapp3.1\Base.Service.AssemblyInfo.cs
+C:\Users\XiaoXu\source\repos\Base\Base.Service\obj\Debug\netcoreapp3.1\Base.Service.csproj.CopyComplete
+C:\Users\XiaoXu\source\repos\Base\Base.Service\obj\Debug\netcoreapp3.1\Base.Service.dll
+C:\Users\XiaoXu\source\repos\Base\Base.Service\obj\Debug\netcoreapp3.1\Base.Service.pdb

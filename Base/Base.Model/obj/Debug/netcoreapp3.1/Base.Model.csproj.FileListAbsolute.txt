@@ -1,0 +1,10 @@
+C:\Users\XiaoXu\source\repos\Base\Base.Model\bin\Debug\netcoreapp3.1\Base.Model.deps.json
+C:\Users\XiaoXu\source\repos\Base\Base.Model\bin\Debug\netcoreapp3.1\Base.Model.dll
+C:\Users\XiaoXu\source\repos\Base\Base.Model\obj\Debug\netcoreapp3.1\Base.Model.AssemblyInfoInputs.cache
+C:\Users\XiaoXu\source\repos\Base\Base.Model\obj\Debug\netcoreapp3.1\Base.Model.AssemblyInfo.cs
+C:\Users\XiaoXu\source\repos\Base\Base.Model\obj\Debug\netcoreapp3.1\Base.Model.csprojAssemblyReference.cache
+C:\Users\XiaoXu\source\repos\Base\Base.Model\bin\Debug\netcoreapp3.1\Base.Model.runtimeconfig.json
+C:\Users\XiaoXu\source\repos\Base\Base.Model\bin\Debug\netcoreapp3.1\Base.Model.runtimeconfig.dev.json
+C:\Users\XiaoXu\source\repos\Base\Base.Model\bin\Debug\netcoreapp3.1\Base.Model.pdb
+C:\Users\XiaoXu\source\repos\Base\Base.Model\obj\Debug\netcoreapp3.1\Base.Model.dll
+C:\Users\XiaoXu\source\repos\Base\Base.Model\obj\Debug\netcoreapp3.1\Base.Model.pdb
